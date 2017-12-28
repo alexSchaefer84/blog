@@ -16,14 +16,13 @@ You can hire me for: <br />
 * Scrum development
 * Code review
 
-I worked with a lot of clients like:
+I've worked with a lot of clients like:
 
 * RTL Interactive GmbH
 * Cologne Broadcasting Center GmbH
 * addmore mobile GmbH
 * Henkel Loctite
 * Vodafone
-* exactag GmbH
 
 Since Apple swift has released, I have been working with it. I love to work in Scrum teams and write code after writing tests,
 because I think that this increases the software quality considerably. <br />
