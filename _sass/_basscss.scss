@@ -13,8 +13,13 @@
 @import 'basscss/base-forms';
 @import 'basscss/base-reset';
 @import 'basscss/base-typography';
-
+@import 'basscss/layout';
+@import 'basscss/flexbox';
+@import 'basscss/grid';
+@import 'basscss/border';
 @import 'basscss/buttons-blue';
+
+@import 'basscss/basscss-addons';
 
 @import 'basscss/syntax-highlighting';
 @import 'basscss/color-base';
