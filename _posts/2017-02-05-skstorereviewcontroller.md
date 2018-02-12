@@ -6,6 +6,7 @@ summary:	"Since iOS 10.3 Apple offers us the possibility to leave user reviews d
 The dialog can only be opened three times a year, no matter how many app updates you have published.<br /> 
 In this post I describe an approach how to handle SKStoreReviewController"
 categories: ios
+comments: true
 ---
 
 Welcome to my first blog post :)
