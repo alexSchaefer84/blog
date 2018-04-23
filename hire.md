@@ -5,7 +5,7 @@ permalink: /hire/
 tags: hire
 ---
 
-TDD evangelist that loves programming clean code architecture.
+TDD evangelist who loves programming clean code architecture.
 
 I'm available as a freelance iOS engineer and always looking for new interesting challenges. <br />
 
