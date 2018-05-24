@@ -4,7 +4,7 @@ email:       a.schaefer@app-concept.de
 author:      Alexander Schäfer
 description: ""
 baseurl:     ""
-url:         "http://app-concept.de"
+url:         "https://www.app-concept.de"
 date_format: "%b %-d, %Y"
 header_pages:
  - hire.md
